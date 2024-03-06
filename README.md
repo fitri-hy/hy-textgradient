@@ -48,7 +48,7 @@ export default App;
 ## Full Customization
 
 ```sh
-<TextGradient className="" colors={["#ff0000", "#ffff00", "#00ff00"]} size="xxl" style="bold" decoration="underline" direction="diagonal-left" font="Arial">
+<TextGradient className="my-css" colors={["#ff0000", "#ffff00", "#00ff00"]} size="xxl" style="bold" decoration="underline" direction="diagonal-left" font="Arial">
   Your Text To Gradient Here
 </TextGradient>
 ```
