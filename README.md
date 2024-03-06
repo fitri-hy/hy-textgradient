@@ -1,12 +1,17 @@
-# Text Gradient for React v.1.0
+# Modules Text Gradient for React v.1.0
 
 <img src="./Screenshot.png"/>
 ReactJS modules are simple but have many advantages, one of which is that you can customize them freely.
 
-## Installation
+## NPM Installation
+
 ```sh
 npm install hy-textgradient
 ```
+
+## Manual Installation
+1. `git clone https://github.com/fitri-hy/hy-textgradient.git`
+2. Copy `hy-textgradient` folder to node_modules
 
 ## Example Project Implemented
 
