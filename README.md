@@ -10,19 +10,19 @@ npm install hy-textgradient
 ## Example Project Implemented
 
 ```sh
-/* Add - Impport module */
+// Add - Impport module //
 import TextGradient from "hy-textgradient";
-/*----*/
+//----//
 
 const App = () => {
   return (
     <div>
     
-      /* Add - Default components */
+      // Add - Default components //
       <TextGradient colors={["#ff0000", "#ffff00", "#00ff00"]} >	
         Your Text To Gradient Here
 	  </TextGradient>
-      /*----*/
+      //----//
       
     </div>
   );
