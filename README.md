@@ -38,10 +38,10 @@ export default App;
 | Atribute | Key | Description | Status |
 |:---------|:-----------|:-----------|:-----------|
 | `colors="key?"`|`{["#ff0000", "#ffff00", "#00ff00"]}`|Customize color, 2+ colors supported|required|
-| `direction="key?"`|`horizontal` `vertical` `diagonal-left` `diagonal-right` `none` |Customize gradient direction|optional|
+| `direction="key?"`|`horizontal` `vertical` `diagonal-left` `diagonal-right` |Customize gradient direction|optional|
 | `decoration="key?"`|`underline` `overline` `line-through` `none`|Customize text decoration|optional|
 | `style="key?"`|`normal` `bold` `italic`|Customize text style|optional|
-| `size="key?"`|`normal` `s` `m` `x` `xl` `xxl` `xxl`|Customize text size|optional|
+| `size="key?"`|`normal` `s` `m` `x` `xl` `xxl` `xxxl`|Customize text size|optional|
 | `font="key?"`|`Name font family` Support all web font|Customize font style|optional|
 | `className="key?"`|Support variable css|Customize with css|optional|
 
@@ -54,4 +54,4 @@ export default App;
 ```
 
 Happy Coding :)
-
+Follow Me: <a href="https://hy-tech.my.id/">FOLLOW</a>
