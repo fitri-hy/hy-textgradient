@@ -1,5 +1,6 @@
 # Text Gradient for React v.1.0
 
+<img src="./Screenshot.png"/>
 ReactJS modules are simple but have many advantages, one of which is that you can customize them freely.
 
 ## Installation
